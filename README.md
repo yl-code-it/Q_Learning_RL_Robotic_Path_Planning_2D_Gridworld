@@ -1,7 +1,7 @@
 # Q_Learning_RL_Robotic_Path_Planning_2D_Gridworld
 Robot Manipulator Path Planning using Q-Learning – 2D Grid World Case Study
 
-Yu Lin, Ph.D.
+Yu Lin
 
 How to apply the Reinforcement Learning (RL) of grid world to the topic of path planning of robotic manipulators? 
 
