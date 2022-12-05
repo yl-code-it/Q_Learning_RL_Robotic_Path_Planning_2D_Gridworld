@@ -1,6 +1,6 @@
 # Reinforcement Learning 3547 - Term Project
 # Robot Manipulator Path Planning using Q-Learning and DQN – 2D Grid World Case Study
-# Yu Lin, Soumitra Dinda
+# Yu Lin
 # Presentation date: 12/7/2022
 # Algorithm 1 - Classical Q-Learning Algorithm of RL
 # noted that we need RoboDK simulation environment running besides the codes to see the robot actions
