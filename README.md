@@ -59,6 +59,7 @@ References:
 [2]. RoboDK tools for simulating and programming industrial robots. https://pypi.org/project/robodk/  https://robodk.com/doc/en/PythonAPI/intro.html
 
 [3]. Alexander Zai and Brandon Brown, Deep Reinforcement Learning In Action https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction/tree/master/Chapter%203 
+source of codes of 2d grid world, and Deep Q-learning Network.
 
 [4]. Thomas Simonini, Q-Learning with Frozenlake – OpenAI Gym. https://github.com/simoninithomas/Deep_reinforcement_learning_Course/blob/master/Q%20learning/FrozenLake/Q%20Learning%20with%20FrozenLake_unslippery%20(Deterministic%20version).ipynb
 
