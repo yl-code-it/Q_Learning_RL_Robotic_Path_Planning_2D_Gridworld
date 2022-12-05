@@ -1,8 +1,6 @@
 # Q_Learning_RL_Robotic_Path_Planning_2D_Gridworld
 Robot Manipulator Path Planning using Q-Learning and DQN – 2D Grid World Case Study
 
-Yu Lin
-
 How to apply the Reinforcement Learning (RL) of grid world to the topic of path planning of robotic manipulators? 
 
 Recently, a paper was published about Computer Vision-Based Path Planning for Robot Arms in Three-Dimensional Workspaces Using Q-Learning and Neural Networks [1].
